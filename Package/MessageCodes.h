@@ -1,0 +1,16 @@
+#define WAIT_FOR_NEXT 1
+#define STOP 0
+
+#define GETLINE 101
+#define PRINT 102
+#define UPLOAD_FILE 103
+#define WRITE_LINE_TO_FILE 104
+#define DISCONNECT 199
+
+#define INPUT 201
+#define LINE_FROM_FILE 202
+
+#define UNABLE_TO_LOCATE_FILE 901
+#define WRONG_INPUT 902
+#define ERROR 903
+#define DEFAULT_MESSAGE 909
